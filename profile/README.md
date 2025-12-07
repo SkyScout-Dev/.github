@@ -1,5 +1,5 @@
 
-![SkyScout Dev banner](htts://ibb.co/DDTfj3L0)
+![SkyScout Dev banner](https://ibb.co/DDTfj3L0)
 
 Hi there 👋
 
